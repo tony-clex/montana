@@ -8,6 +8,11 @@ body {
   justify-content: space-between;
 }
 
+header img {
+  width: 50%;
+  height: 50px;
+}
+
 .gg img {
   width: 50%;
   margin-left: 4%;
@@ -23,13 +28,9 @@ nav ul {
   display: none;
 }
 
-header img {
-  width: 50%;
-  height: 50px;
-}
-
 .act1 span {
   font-weight: bolder;
+  color: #050303;
 }
 
 .act1 p {
@@ -38,6 +39,7 @@ header img {
 
 .act1 h1 {
   text-align: center;
+  color: #050303;
 }
 
 label {
@@ -63,14 +65,6 @@ form {
   width: 50%;
   height: 50x;
   margin-left: 26%;
-}
-
-.act1 h1 {
-  color: #7f7e7e;
-}
-
-.act1 span {
-  color: #050303;
 }
 
 .button {
@@ -143,6 +137,7 @@ form {
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
 }
+
 .gas2 {
   padding: 1rem;
   margin: 14px;

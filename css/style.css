@@ -15,15 +15,15 @@ body {
 
 nav {
   span {
-        margin-left: 107px;
-    }
+    margin-left: 107px;
+  }
 }
 
 nav ul {
   display: none;
 }
 
-header img{
+header img {
   width: 50%;
   height: 50px;
 }
@@ -44,12 +44,11 @@ label {
   text-align: center;
 }
 
-.span-work{
+.span-work {
   color: #8c8989;
   display: flex;
   flex-direction: column;
   gap: 5px;
-
 }
 
 form {
@@ -67,11 +66,11 @@ form {
 }
 
 .act1 h1 {
-    color: #7f7e7e;
+  color: #7f7e7e;
 }
 
 .act1 span {
-    color: #050303;
+  color: #050303;
 }
 
 .button {
@@ -144,7 +143,7 @@ form {
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
 }
-.gas2{
+.gas2 {
   padding: 1rem;
   margin: 14px;
   text-align: center;
@@ -152,7 +151,6 @@ form {
   border-radius: 0.3rem;
   box-shadow: 0 4px 2px #7f7e7e;
 }
-
 
 .gas3 {
   padding: 1rem;
@@ -164,68 +162,67 @@ form {
 }
 
 .act2 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .section1 h3 {
-    background-color: green;
-    width: 35%;
-    height: 30px;
-    color: white;
-    margin-left: 30%;
-    border-radius: 5%;
+  background-color: green;
+  width: 35%;
+  height: 30px;
+  color: white;
+  margin-left: 30%;
+  border-radius: 5%;
 }
 
 .section1-3 {
-    background-color: lightgrey;
+  background-color: lightgrey;
 }
 
 .section1-3 p {
-    text-align: center;
+  text-align: center;
 }
 
 .section1-3 h3 {
-    background-color: orangered;
-    width: 27%;
-    height: 30px;
-    color: white;
-    margin-left: 35%;
-    border-radius: 5%;
-    text-align: center;
+  background-color: orangered;
+  width: 27%;
+  height: 30px;
+  color: white;
+  margin-left: 35%;
+  border-radius: 5%;
+  text-align: center;
 }
 
 .gas2 h4 {
-    background-color: skyblue;
-    width: 27%;
-    height: 20px;
-    color: white;
-    margin-left: 35%;
-    border-radius: 5%;
-    text-align: center;
+  background-color: skyblue;
+  width: 27%;
+  height: 20px;
+  color: white;
+  margin-left: 35%;
+  border-radius: 5%;
+  text-align: center;
 }
 
 .gas3 h5 {
-    background-color: lightgrey;
-    width: 27%;
-    height: 20px;
-    color: white;
-    margin-left: 35%;
-    border-radius: 5%;
-    text-align: center;
+  background-color: lightgrey;
+  width: 27%;
+  height: 20px;
+  color: white;
+  margin-left: 35%;
+  border-radius: 5%;
+  text-align: center;
 }
 
 .gas1 h5 {
-    color: #7f7e7e;
+  color: #7f7e7e;
 }
 
 .gas1 h2 {
-    color: #7f7e7e;
+  color: #7f7e7e;
 }
 
 .gas1 p {
-    color: #7f7e7e;
+  color: #7f7e7e;
 }
-
 
 .pedri {
   background-color: yellow;
@@ -237,30 +234,29 @@ form {
 }
 
 .ss img {
-    width: 100%;
-    border-top-left-radius: 7%;
-    border-top-right-radius: 7%;
-    margin-bottom: -20px;
+  width: 100%;
+  border-top-left-radius: 7%;
+  border-top-right-radius: 7%;
+  margin-bottom: -20px;
 }
 
 .yak {
-    background-color: white;
-    margin-bottom: 5%;
-    border-radius: 23%;
+  background-color: white;
+  margin-bottom: 5%;
+  border-radius: 23%;
 }
 
 .yb {
-    background-color: white;
-    margin-bottom: 5%;
-    border-radius: 23%;
+  background-color: white;
+  margin-bottom: 5%;
+  border-radius: 23%;
 }
 
 .yub {
-    background-color: white;
-    margin-bottom: 5%;
-    border-radius: 23%;
+  background-color: white;
+  margin-bottom: 5%;
+  border-radius: 23%;
 }
-
 
 .tony {
   background-color: orangered;
@@ -281,142 +277,134 @@ form {
 }
 
 .chapter4 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .block1 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block1 img {
-    width: 23%;
+  width: 23%;
 }
 
 .block2 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block2 img {
-    width: 23%;
+  width: 23%;
 }
 
 .block3 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block3 img {
-    width: 23%;
+  width: 23%;
 }
 
 .block4 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block4 img {
-    width: 23%;
+  width: 23%;
 }
 
 .block5 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block5 img {
-    width: 23%;
+  width: 23%;
 }
 
 .block6 {
-    padding: 1rem;
-    margin: 14px;
-    text-align: center;
-    border-radius: 0.3rem;
-    background-color: white;
+  padding: 1rem;
+  margin: 14px;
+  text-align: center;
+  border-radius: 0.3rem;
+  background-color: white;
 }
 
 .block6 img {
-    width: 23%;
+  width: 23%;
 }
 
 .chapter4 {
-    background-color: lightgrey;
+  background-color: lightgrey;
 }
 
 .general {
-    text-align: center;
+  text-align: center;
 }
 
 .chapter5 {
-    background-color: lightcyan;
+  background-color: lightcyan;
 }
 
 .chapter6 {
-    text-align: center;
-    background-color: orangered;
-    padding-bottom: 12%;
+  text-align: center;
+  background-color: orangered;
+  padding-bottom: 12%;
 }
 
 .carlex img {
-    width: 19%;
-    text-align: center;
+  width: 19%;
+  text-align: center;
 }
 
-
 .big img {
-    width: 23%;
+  width: 23%;
 }
 
 .big {
-    border-bottom: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .step5 img {
-    width: 23%;
+  width: 23%;
 }
 
 .roddy img {
-    width: 23%;
+  width: 23%;
 }
 
 .carlex {
-    display: flex;
-    background-color: white;
-    width: 50%;
-    margin-bottom: 12%;
-    margin-left: 17%;
-    border-radius: 12%;
+  display: flex;
+  background-color: white;
+  width: 50%;
+  margin-bottom: 12%;
+  margin-left: 17%;
+  border-radius: 12%;
 }
 
 .roddy {
-    display: flex;
-    background-color: white;
-    width: 50%;
-    margin-bottom: 12%;
-    margin-left: 17%;
-    border-radius: 12%;
-
+  display: flex;
+  background-color: white;
+  width: 50%;
+  margin-bottom: 12%;
+  margin-left: 17%;
+  border-radius: 12%;
 }
-
-
-
-
-
-
